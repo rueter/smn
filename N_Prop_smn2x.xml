@@ -1,0 +1,9777 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="smn">
+<e>
+   <lg>
+     <l pos="N" type="Prop">Aailâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áilegas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Aanaar</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Anár</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Inari</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Aanaarjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Anárjohka</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Inarijoki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Aanaarjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Anárjávri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Inarijärvi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Aanaarmarkkân</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Anármárkan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Aanaarškovlâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Anárskuvla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Aasia</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ásia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Afrik</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Afrika</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Afrihká</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ailijokk</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áilejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Almedvuástluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Almmivuostáluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Amerik</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Amerihkká</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Anarâškurrâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Anárašgurra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Anarâšpähti</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Anárašbákti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Anarâšsuánju</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Anárašsuodnju</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Anarâšvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Anárašvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ande</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ánde</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ánte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Annijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ánnejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Annivääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ánnevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Antigua já Barbuda</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Antigua ja Barbuda</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Antti</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ánde</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ánte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Appissuvanto</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áhppessavvon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Arabiemiirikodeh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Arabaemiráhtat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Australia</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Austrália</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Avnaasiänu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ovnnesjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Avveel</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Avvil</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Avveel-Matti</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Avvil-Máhtte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Avveeljuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Avviljohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Avveelskäiđi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Avvilskáidi</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Avviskáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Avveer</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Avvir</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Avvilskáidi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Avviskáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Azerbaidzan</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Azerbaižan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Aŋŋel</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áŋŋel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Bajimuš Beskoguoika</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bajit Bešku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Bajimušgorži</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuorragorži</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Bisánanjávri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Birrasanjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Bosnia-Hertsegovina</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bosnia-Hercegovina</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Buggajárája</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buŋgajárája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Cavanjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Cávanjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Cieskuljuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Cieskuljohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Cissadanláttu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Cissadanjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Cissadanája</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Viinnalasihanjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Davimuš Lávrrávárnjunni</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Unna Mohkkejároaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Davit Čavgŋá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Davit Čaŋŋá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Dominikaanlâš täsivääldi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Dominikána republihkka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Dárvvatvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Dárvvatvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Edlihuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Edletoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Eesti</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Estteeana</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Egypti</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Egypta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Elefanttähtiriddo</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Elefandákteriddu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Elli</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Elle</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Elliinjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ellenjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ergijävrkuoškâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Heargeguoika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ergičuálmi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Heargečoalbmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Espanja</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Espánnja</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Euroop</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Eurohpá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Filippiineh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Filippiinnat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Finnmark</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Finnmárku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Friis</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Friisa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Fááškujävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Fáškojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Fáškoguolbba</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Fáškojotguolbba</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Gahčahatjeaggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gahčatatjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Gahčahatjohka</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gahčatatjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Gahčahatjávri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gahčatatjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Gahčahatláttu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gáhčatatláttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Galmmiidanoaivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Doahttameahttungollun</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Gaskajárjohka</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gaskaája</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gaskujárjohka</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soahtejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Gaskkamuš Beskoguoika</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guhkes Besku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Gaskujárjogajeaggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áidevárášjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Geavgŋávuolle</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Máhtebáiki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Gibbaljeaggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gibbaljogageažejeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Gibbalvárri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuorra Gibbalvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Giellasansavu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bajit Giellasansavu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Goddevađat</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guddivađđa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Grönholmvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Grönholmavárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Guhkesnjuovčča</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Garranjearáš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Guorrasguoika</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guorrásguoika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Guovžuroaivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Dápmotjároaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Gákkasčielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Girkovuovdi</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Kirkovuovdi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Gáldoláttu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Unna Gáldoláttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Gáre Jon Gárdeája</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Káre Jon Gárdeája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Haanuškuátjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hánnošgoahtejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hacâstâmjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Háhcastanjávri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Háhccestanjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Haippajáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Fáippajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Haipparuávi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Fáipparoavvi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Haukijärvet</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hávgajávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Havgâjävrvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hávgajárvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Havgânjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hávganjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Heikkil</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Heandaratbáiki</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Heikel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Heikkâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Heaika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Helsig</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Helsset</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hendrihvarrimjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Heandarat oađđinjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hiättá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Heahttá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hiävujuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Heavvojohka</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Heavvoája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hiävušlássá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Heastasuolu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hiävušuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Heabošoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hjarte-elva</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hjarteelva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Holland</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hollánda</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hoppoogjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hahpatjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hoppoogčukkâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hahpatčohkka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hopâttâsjuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hahpahanjogaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hormá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Horbmá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Huikkemjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Huikinjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Huikkemjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Huikinjávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Huikkemvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Huikinvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Huikkemčukkâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Huikinvárčohkka</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Huikinčohkka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Häldee</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Háldi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Hästimjávrááh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hástinjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Iisko Nijttojeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Iiskku Ládjojeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ijjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Idjajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Indre-eide</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Indreeide</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Irjánpuállâm</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Irjánbuollán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Irland</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Irlánda</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Irráuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Irroaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Island</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Islánda</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Issárohlappumváárááš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Látnjávárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Iänudâh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Eanodat</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Enodat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jaapaan</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Japan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jaŋkkil</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jáŋkkil</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jeesus</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jesus</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jiehheeluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jiehkkoluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jieŋâjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jiekŋajávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jieŋâmeerâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jiekŋamearra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jieŋâääpi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jiekŋaáhpi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jieŋŋâlisluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čiekŋalisluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jiešjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Iešjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jolgâvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jalgavárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jompáväärih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jomppávárit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jorbajeaggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jorpajänkä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jovnâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jovna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juhháán</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Juhán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juhháánjáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Johánjávrráš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juhháánpäikki</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Juhánbáiki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juhlát</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Julát</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juhâmokke</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Johkamohkki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jumbáljävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jumbáljávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juovlâčielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Juovlačielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juovâjávrááh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Juovvajávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juovâjävrjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Juovvajárjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juovânjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Juovvanjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juovâčielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Juovvačielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Justemvyemi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Justinvuopmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juullâmjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jollanjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juullâmuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jollanoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juuvâšnjälmluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jogašnjálmmeluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juuvâšnjälmláássáš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jogašnjálmmelássáš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Juvduu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Juvdujohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jyevdilâsjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Joavdelasjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jáku Vuoli luohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jáhku-Vulle luokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jávrádohpottâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jávrrádatbahta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jávráduvvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jávrrádagaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jävilmoorâst</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jeagelmaras</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jäviluáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jeageloaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Jävrikeeči</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jávregeahči</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaabi Jovn päikki</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gáppe Jon báiki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaabiš Anttii jävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gábe-Ántte jávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaabiš Anttii čukkâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gábe-Ántte čohkka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaamâs</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gámas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaamâsjeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gápmasjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaamâsjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gámasjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaamâsmokke</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gámasmohkki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaarbuljuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gárbboljohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaarbuljävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gárbboljávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaarbulvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gárbbolvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kahcâvärjeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gákcavárjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kahcâvärjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gákcavárjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kahcâvärjuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gákcavárája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaidâmjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gáidanjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kaivuonâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gáivuotna</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Kåfjord</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kambodza</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Kambodža</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kamiljuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gamedeijohka</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gamiljohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kanada</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Kanáda</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Karnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gárnjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Katrinjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gáhterinjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Katrinčuálmi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gáhterinčoalbmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kenišjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ganešjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Keniškuoškâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ganešguoika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kenišpähti</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ganešbákti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kesikuátjeegih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Geassegoahtejeakkit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kesikuátjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Geassegoahtejávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Keđgikuorâttâh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Geađgguorddatjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Keđgiporkielâs</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Geađgeborgielas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Keđgisuáluijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Geađgesuolojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kieddinjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gieddenjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kieddsuálui</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gieddesuolu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiemâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Giepma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiemâeennâm</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Giemaeatnan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiemâjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Giemajohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiemâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Giemajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kietâruotâs</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Giehtaruohtas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kievŋiskuoškâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Garetguoika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiina</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Kiinná</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kilbisjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gilbbesjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kirkkonjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Girkonjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kirkobuolža</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Girkobuolža</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kirkobuolžžajeaggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Girkobuolžžajeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kirkobuolžžajávrrit</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Girkobuolžžajávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kistolyevdivääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jalgačielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kistâppeljuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gisttatbeljohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kistâppeljäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gisttatbeljávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kistâppelvyemi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gisttatbelvuopmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kitti-Andârâs čuálmi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Giht-Ándaras čoalbmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kittiluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gihteluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kittâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gihttel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kivrulvuonâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Givrulvuotna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kivŋâmjuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Givgánjohka</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Givgánája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kivŋâmjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Givgánjávri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Givgŋanjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiäinujävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Geaidnojávri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sealgejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiäinuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Geaidnoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiälluläppimävži</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bielloláhppinávži</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiälluläppimčummâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bielloláhppinčopma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiärun</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Giron</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiävu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Geavvu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiävujävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Geavojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiävunjälmi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Geavonjálbmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kiškodemjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gaikkodanjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koddejävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goddejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koddepääččimliäkšá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goddebáhčinduottar</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koddesuoppâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goddesuohppa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koddáášjiäggááruávi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gottášjeakkeroavvi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koddáášjiägáš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gottášjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koddááščielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gottáščielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kolšâmuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gođđosavvonoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Komonáppááh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gomunáhppi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Komoreh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Komoriid lihttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kongo demokraatlâš täsiväldi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Kongon demokráhtalaš dásseváldi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Korŋiistâllâmkaavâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gorgŋestallangávva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Korŋiittâhaajâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gorrehatája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koskâ-Afrik</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gaska-Afrihká</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koskâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gaskajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koskâmeerâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gaskamearra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koskâmeerâriddo</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gaskamearragáddi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koskâvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gaska-Šáddevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koskâčielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gaskačielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kosseennâm</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gasseanan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kođojuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gođđujohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kođojuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gođđujohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koškejävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuoskkojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koškeluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Coagesluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Koškâmjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goškanjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kreikka</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Greika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kue´ttluubbâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goahtesailáttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuhesjieŋâs</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guhkesjieŋas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuhesjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guhkesjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuheskuoškâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guhkesguoika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuhesluobbâleh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guhkesluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuhesluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guhkesluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuhesluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guhkesluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuhessavo</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guhkessavu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kulmlovvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Golmmalotvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kulmluovttiih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Golmmaluovttaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuobžâjuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guovžajohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuobžâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guovžajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuobžâluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guovžaluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuobžâvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guovžavárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuoksâjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guoksajohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuoksâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guoksajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuoksâvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guoksavárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuovdâkiäinu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guovdageaidnu</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Kautokeino</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuovdâláássáš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guovdalásis</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guovdalássáš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuovđâšmjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guođašjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuovđâšmvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guođašvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuošnjâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guošnajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuošnjâuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guošnaoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kurdosavvoon</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gurdonjálmmesavu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuttoor</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guhtur</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuuba</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Kuba</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuumpičummâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gumppečopma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuádduvei</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guoddoveijohka</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guottoveadji</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guottoveaijohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuádduveiskäiđi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guoddoveiskáidi</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guottoveaiskáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuádduveičummâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guottoveaičopma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuáddučummâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guoddoveičopma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuálnájuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guoldnájohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuálsijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goalseveadji</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuálsilássááh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goalselássát</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuálsivei</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goalseveadji</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuáládâh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guoládat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuáládâhnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guoládatnjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuáppil</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goahppil</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuárdámjáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goardinjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuárdámjävrjuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goardinjárjogaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuáruláddu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guorroláttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuátiluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goahteluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuátinjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goahtenjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuávžurjuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guovžurjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuáđhu-uáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guotkkoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuáđhu-uáiviláddu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guotkkoláttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuáđááčielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goahtečielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kuáđááčielgjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goahtečielggejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kyelipastemuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guollebastin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kyevti Pälgisuáivkooskâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guovtte Bálggesoaijávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Káivujuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gáivujohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kálguáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gálgoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kálvujuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gálvujohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Káre Jon Gárdeája</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gárdeája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kárášjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Kárášjohka</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Karasjok</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Káálluhjáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gállotjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kähteevyeppee</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gáhkkorvuohppi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Käldeejävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gáldojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kärbiskyeddimmoorâst</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gárbbesguoddinmarastat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Käresavo</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gárasavvon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kärigâsnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gáregasnjárga</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Karigasniemi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Kärjil</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gárjil</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Käđirkuátku</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gáđerguotku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Käđirkuátkujuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gáđerguotkkojohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Laasâvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lássavárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Laavcânoppe</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lákcanohppi</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lávccanohppi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lanâpuolžâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Látnabuolža</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lavkkâpellááduh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lávkabealláddot</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lavri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lávra</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lávrá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lavŋekuátluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lavdnjegoahteluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lavŋekuátvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lavdnjegoahtevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Leemit</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lemet</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Leibijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Leaibejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Leibijuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Leaibejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Leibijäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Leaibejávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Leibiluobbâlâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Leaibejohluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lemmee</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Leammi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Levnjâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Leavdnja</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Liettua</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lietuva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lijneläppimsuálui</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Liidneláhppinsuolu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lille-eng</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lilleeng</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lismá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čálku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lismájuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lismájohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lismájävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lismájávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Littmuorvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lihttemuorvárri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lihttomuorvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Littosaipuolžiih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lihttosaibuolžžašat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Liävájuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Leavvajohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lojesliäkšá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lojesleakšá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lokkerrisjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lohgerresjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lomakylä Muotkanruoktu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Muotkeruoktu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lotto</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lohttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lusme</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lusmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lusmemoorâst</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lusmemarastat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lusmenjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lusminjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Luujävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lujávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lyevdikuátvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stohpovárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lággujuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lággu</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lákkojohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lággujävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Leaggojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lágguuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Leaggooaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lávujávrááaajâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lávvojárája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lávujáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lávvojávrráš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lávunjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lávvonjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lávuriggeejávrááh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lávvoriggeláttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lávuvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lávvovárri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lávvojárvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Läkseemyetki</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lákšamuotki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Läkseemyeđhijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Laksemuotkejohka</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Laksevuohčču</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Läkseemyeđhikuoškâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Laksemuotkeguoika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Läkseemyeđhivääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Laksemuotkevuohččovárri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Laksemuotkevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Läkseenjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Láksenjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Läkseenkuoškâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Láksenjearit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Lääddehvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Láttetvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Läškisjuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Láikkesája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Läškisjuvviipuolžâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Láikkesádjahpuolžâ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Läškisjáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Láikkesjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maadâ-Afrik</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mátta-Afrihká</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maadâ-Korea</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mátta-Korea</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maadâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Máttajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maadâkuátjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Goahtejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maarit</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Máret</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maaritpohe</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Máretbohki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maaritsuálui</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Máretsuolu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maasi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Máze</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Maađijluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Máđiiluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Malediiveh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Maledivat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Manevuoššâmsuálui</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mannevuoššansuolu</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Monnevuoššansuolu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Marastatávži</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Geaidnávži</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Marttinnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Márttenjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Matjâs Andârâs luohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Máttaras-Ándaras luokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Matti</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Máhtte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Merâpoođâluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Davvimearabahta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Merâpottâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mearrabahta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Mierâšjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mierašjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Mierâšluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mierašluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Mierâšruávi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mierašroavvi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Mierâšvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mierašvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Miessebuollán</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Miesseroavvi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Mikkâljävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mihkaljávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Mikkâlvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mihkalvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Moalkeláttu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njávnnagašjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Mokkejävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mohkkejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Molgottem</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mulggohatjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Morgâmjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Morganjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Morgâmjävruáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Morgan-Viibos</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Viibos Morganoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Morgâmuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Morganmaras</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Márástat Morganoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Mudusjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Muddosjávri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Muttosjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Mudusnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Muddosnjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Muonio</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Muoná</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Murmansk</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Murmánska</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Muálkkijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Moalkejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Muálkkiluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Moalkeluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Myeisijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Muoisejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Myeđhituoddâr</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Muotkeduottar</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Mágarátkinjávri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Máđaráhkajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Márástâh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Marastat</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Marastatduottarat</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Márástat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Máttit Rivdošvárri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gánddašduottar</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Máttáolbmuidčopma</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hánss-Ovllá čopma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Mäddeeb Šäddivääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Mátta-Šáddevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Määddib Elijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuolit Ellejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Möllärjuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Möllärája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nelgijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nealgejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nelgijävrjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nealgejárjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nelgijäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nealgejávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nieidânjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nieidanjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nijbiijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Niibejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nijlâs</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Niillas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nikolâsjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nihkolasjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nikolâsjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nihkolasjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nikolâsluobbâlroto</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nihkolasluobbalrohtu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nikolâsluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nihkolasluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njaamâsiälgáájävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ivvárgoahtejávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njargâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njárgajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njarččâmjeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njarčanjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njarččâmjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njarčanjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njarččâmjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njarčanjávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njarččâmvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njarčanvárit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njavejuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njavejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njiävđám</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njávdán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njiävđámskäiđi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njeavddeskáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njiävđámvuonâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njeavdánvuotna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njiđgojuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njiđgu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njiđgojävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njiđgojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njižžjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njižžejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njollâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njallajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njunnáás</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njunnás</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njuoll-Aanti jeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njuoll-Ántte jeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njurgomjuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njurgunája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njurgomuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njurgunoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njurgomävži</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njurgunávži</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njuámmilâšjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njoammelašjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njuárgám</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njuorggán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njuáruinjaargâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njuoranjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njuáskijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njoaskejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njuõttjäu´rr</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njuohttejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njuõttčå´kk</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nuortečohkka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njávnnagašjeaggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Navnnagašjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njávváájuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njáhkájohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njávvááuáivih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njáhkájohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njähijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njáhkájávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njälpovváájeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njálmmebogijeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njälpovváávääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njálmmebogivárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Njälpovvááš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njálmmebohki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nomâttesjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Namahisjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Novokusnetsk</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Novokusneck</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nuorttâ-Timor</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nuorta-Timor</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nuorttâmeerâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nuortamearra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nuorttâriijkâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nuortariika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Nuvvus-Aailâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nuvvos-Áilegas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Návuonâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Návuotna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Olkkejävrčummâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Olkkaoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ollâmoorâst</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Allamaras</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ollânjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Allanjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ollâsuálui</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Allasuolu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Omenajävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Honnetjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Oođâčieskâmjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ađđančieskanjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Oođâčieskâmjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ađđančieskanjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ordâvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ordavárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ovdâkietjávrááh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ovdagiehjávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ovdâkietvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ovdagiehvárit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ovtâstumstaatah</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ovttastuvvan stáhtat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paahumjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Báhunjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paavvâljuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bávvaljohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paavvâljävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bávvaljávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paavvâljävrivääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bávvaljávrivárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paađuš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Báđoš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paijáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Badjejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paištuodâr</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Báišduottar</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paje-Tuárnus</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Badje-Duortnus</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pajebuš Jermuusavvoon</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bajit Jierpmusavu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Passaašjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Basášjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Passaašjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Basášjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Passaašluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Basášluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Passaašuáivih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Basášoaivvit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paččvei</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Báhčaveaijohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paččveileve</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Báhčaveaileahki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paššeemjuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bassinjogaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paššeemjáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bassinjávrráš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Paššeemčielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bassinčielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pecivyetkimvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Beahcevuotkinvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Peeivitäsideijee Guinea</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ekvatoriála Guinea</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Peerrumämmir</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Berronápmir</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Peerrumämmirjeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Berronápmirjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Peljituodâr</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bealljeduottar</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piera</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biera</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piergivärjeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biergevárjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piergivärjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biergejávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piergivääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biergevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pierâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biera</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Piera</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pierâ-rohe táálu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Piera-rohke dállu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piesjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biesjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pigimuorjeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biggámuorjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piirit</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biret</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piiritvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Birevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piittuš-Maarit kuoškâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bihtoš-Máret guoika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pirijärvi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Birejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piruärdee</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Birohárdu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pissojuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bissojohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piäccám</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Beahcán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piäccámjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Beahcánjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piäccámpuolžah</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Beahcánbuolžžat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piäldutuodâr</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bealdoduottar</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piärguláddu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biergoláttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piärtušmskäiđi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bearttošskáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piättâr Mattii kieddi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biehtár Máhteš gieddi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piättârlávttááuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biehtárlávttášoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Piškvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biškevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ponccášuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boncášoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ponku</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boŋgu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Porsaŋg</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Porsáŋgu</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Porsanger</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Porttâkäldee</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Barttagáldu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Porttâkäldee pygálusäiđi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Barttagáldu gárdi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Potkâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boatka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puksâljävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buksaljávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pulju</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bullju</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Punnjâlâmvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Butnjalanvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puola</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Polska</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puolžah</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buolžžat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puolžâluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buolžaluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puolžânjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buolžanjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puolžâpotkânâmjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buolžaboatkananjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puornâluohtvyeppeenjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njurgomonnenjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puornâmokke</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Burdnomohkki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puáimášävži</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boaimmášávži</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puállâmeennâmláássáš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buolláneatnanlássáš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puállâmkuoškâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buollánguoika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puállâmkuátluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buollángoahteluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puállâmluobbâleh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buollánluobbalat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puállâmuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buollánoaivi</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Muvrabohvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puálmág</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buolbmát</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puálmágjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buolmátjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puálmágjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buolmátjávri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buolbmatjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puálvárjáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boalvárjávrráš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puánnjávääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boatnjá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puárisjävilkuolbâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boaresjeagelguolbba</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puáriskirkko</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boareskirku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puárisvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boaresoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puárreejäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hirsajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puáskijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boaskejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puáskijuvmokke</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boaskejogamohkki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puáskivärjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boaskevárjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puáskivääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boaskevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puástuppelluobbâlčokke</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boasttobelluoppalčohkka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puástuppelluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boasttobelluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puásuivuonâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Boazovuotna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puáđgááh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buođggát</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Puáđupohe</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buođđobohki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pyeidiskyeljávrááh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buoiddesguoljávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pyeidispuškojáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Buoiddeshávggajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Páálujuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bálojohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Páálujävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bálojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pááluáivih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Báloaivvit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pähtisavvoonvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Báktevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Päikkieennâm</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ruovttueanan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Päikkinjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Báikenjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pälgisuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bálggesoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pänituodâr</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bátneduottar</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Päähinjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Báhkinjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Päärtihsuálui</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bárttetsuolu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Pöyrisjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bievrrašjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Qatar</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Quatar</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ranska</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Fránska</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Frankriika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ranttil</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Rántel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ravdujävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Rávdojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Reeppin</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Reahpen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Reeppinjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Reahpenjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Reeppinjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Reahpenjávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Reeppinčielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Reahpenčielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rekkiluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guošnaluobbalat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rijdojeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Riidojeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rijdojävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Riidojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rivdul</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Rivdol</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Riämnjákuovđâšmjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Biedjojávrráš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rovâdasjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ravadasjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rovâdâsjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ravadasjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruanda</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Rwanda</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruotâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ruoŧŧa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruovttomuotkegoahccán</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ruovttomatgoahccán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruoššâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ruošša</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruuvnâtupeváárááš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ruvnnastohpovárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruábbááčielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ráhpesčielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruándim</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Troanddin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruánááeennâm</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ruonáeana</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruávikuáskimjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Roavvegoaskinjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruávinjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Roavvenjárga</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Roavenjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruávisavvoon</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Roavesavu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruáviskäiđi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Roavveskáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruávičuálmi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Roavvečoalbmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruáváájuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Roavájohka</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Roaváája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ruáváájäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Roavvejávrrit</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Roavájávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ryevdikäldeejuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ruovdegealdinjogaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ryevdipohjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ruovdebogijávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ráhpe-Dápmotláttu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Unnit Dápmotjávri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Unnit Dápmotláttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rátkájuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Reatkájohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rávdurogge</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Rávdoroggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Räjinjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Rádjanjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Räjiuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Rádjoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rätkimjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Rátkkajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rääpisjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ráhpesjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Rääpisuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ráhpesoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Saallâm</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sállan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Saammâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sámmol</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Saijaajävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Saijajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Saint Vincet já Grenadiineh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Saint Vincent ja Grenadiinnat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Saksa</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Duiska</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sambia</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Zambia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sarvesláássáš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sarvveslásis</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sarvesčuálmi pygálusäiđi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sarvvesčoalbmebigálusáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Savvonvárbohki</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Savovárbohki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Savvonvárri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Savovárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Savzâčokke</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sávzavárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Seakkajeaggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Siekkajeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Seeibâgluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Seaibbatluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Seereeh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Searijogaš</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Searitjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Seereehnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Searitnjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Seggeenjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Seagginjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Seibilakjeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Seaibelahjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Seibilakjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Seaibelahjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Seibilakláddu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Seaibelahláttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Seibilakvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Seaibelahvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Selgiaajâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sealgeája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Selgijeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sealgejeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Selgijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sealgejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Selgiluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sealgeluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Senčuájá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Senčuodjá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sestjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Seastojogaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sevesuálui</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Seavesuolu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Seycheleh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Seychellsullot</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Siberia</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sibirjá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sieminkurtte</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Seamagurtu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sieptâgâšjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suovdejogaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sieptâgâšjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suovdejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sierrâmjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sierranjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sierrâmjävrčielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sierranjárčielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sigájävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Golmmagonagasjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sigávuonâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sikkávuotna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Siimmâtluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Siimmatluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Siimmâtnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Siimmatnjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Silbaeanan</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Silbajárskáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Silbâkeđgjáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Silbageađggejávrráš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Siliämarasto</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jalgesmarastat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Simle-elva</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Simleelva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sirmá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sirbmá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Siäidááčuálmi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sieiddáčoalbmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Skandinavia</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Skandinávia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Skiehččannjálmmesavu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Njálbmesavu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Skiečârâsjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Skiehččarasjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Skieččâmjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Skiehččanjávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Skieččâmväärih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Skiehččanvárit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Skäiđijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Skáidejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Skäiđijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Skáidejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Skäiđijäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Skáidejávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Skäiđinjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Skáidenjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Smuggâjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Smukkajohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Smuggâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Smukkajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Smuggâluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Smukkaluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Soabbegealdinoaivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bissogealdinoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sovsjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Savssajohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sovsčielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Savssačielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Spálččá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Muoddávárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Spálččávááráájuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Muoddávárjogaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Spálččávááráájáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Muoddávárjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sreaŋgaáiddejeaggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuorrajeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stohpojeaggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jeakkaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stokkepääččimuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stohkkebáhčenoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stuorra Gibbaljávri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gibbaljávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stuorračuovža</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuorračuovžžajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stuorruáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuorroaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stuorrâ Ivváánjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuorra Ivvánjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stuorrâ Vuáskujävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuorra Vuoskkojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stuorrâ-Britannia</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuora-Británnia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stuorrâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuorrajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stuorrâkeđgnjunes</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuorrageađnjunis</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stuorrâvuonâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuorravuotna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stuorrâävži</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuorraávži</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stuorrávži</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stávráláddu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stávráláttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Stááluvyettimjáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stáluvázzinjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sudesčuálmjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suttesjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suhpieanan</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Hábaeanan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suobbâd</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soabbat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suoidneláttu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suoidnejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suomâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suopma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suomâluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suomaluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suoppjáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suohpajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suoppâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suohpajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suoppâjävruáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suohpaoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suosânjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suossanjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suovâkuoškâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suovvaguoika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suppârjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sohpparjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suppârvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sohpparvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suábbikeldimuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soabbegealdinoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suáhivääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soahkevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suáluijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suolojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suáluijävrpohe</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suolojárbohki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suáluiluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suololuoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suáluivyeppee</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gieddesuolovuohppi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suáluičielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suoločielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suárvikielâs</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soarvegielas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suárá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suorá</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suorájohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suávviljuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soavveljohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suávviljuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soavvelája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suávviljävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soavveljávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suávviljävrčummâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soavveljárčopma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suávvilpuolžâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soavvelbuolža</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suávvilsavo</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soavvelsavu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Suáđigil</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soađegilli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sveitsi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sveica</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Swazieennâm</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Svazieana</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Syeiniluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Suoidneluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Syyria</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Syria</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Sáŋgevárbuollán</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Fáškobuollán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Säämi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Sápmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Taavaakeijävrsuálui</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Davágeažesuolu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Taaveeb Leennehuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Davit Lennetoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Taavvidluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Dávvetluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Taažâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Norga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tadzikistan</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Tažikistan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Talvâdâs</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Dálvadas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tansania</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Tanzania</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tanska</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Dánmárku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tarvantovääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Darvvatvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tave-Korea</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Davvi-Korea</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tave-enâmeh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Davviriikkat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tavemuš Šäddivääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Davimuš Šáddevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Thaieennâm</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Thaieana</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tiergijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Dirgejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tiergituodâr</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Dirgeduottar</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tijvejuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Diivejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tijvejävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Diivejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tijveskäiđi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Diiveskáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tijvevääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Diivevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tikkeláássáš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Dihkkelássáš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tivreláddu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Divreláttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tivtâsvuonâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Divttasvuotna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tiänu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Deatnu</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Tana</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tiänu riddo</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Deatnogáddi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tiänuleehi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Deanuleahki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tobiasčokke</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Tobejasčohkka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Toollâmjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Doallanjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Triemppiluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čuovžaluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Trinidad já Tobaco</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Trinidad ja Tobaco</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tromssa</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Romsa</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Tromsa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Truándin</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Troandin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tukholma</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stockhoalbma</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stockholbma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Turkki</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Durka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuurujävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Duvrojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuurunjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Duvronjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuurupuolžâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Duvrobuolža</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuárispeljuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Doaresbealjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuárispeljävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Doaresbealjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuárispelluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Doaresbealluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuárispelnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Doaresbealnjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuárispelčummâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Doaresbealčopma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuárnus</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Duortnus</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuárnusjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Duortnosjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuárnusjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Duortnosjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tuárrupecaajâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Doarrovasája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tyeljiväldimruávi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Duolljeváldinroavvi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tyemes</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Duomis</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Duommá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tyerbeekuoškâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Duorbeguoika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tyerbeevuonâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Duorbevuotna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tánssámnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Dánsennjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tävgiváárááš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Dávgevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tšad</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Chad</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Tšekki</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čekkia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ucceeb Piäldoouáiváš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bealdoaivváš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uccláássáš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Uhcalássáš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uccvuámáájävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuopmejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uccâ Sevžjáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Uhcit Seavžejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uccâluovtâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Uhcaluovttaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ucjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ohcejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ucjuvnjälmi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ohcejohnjálbmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ulgâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gárbbesjogajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ullovääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ullovárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ulâšjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Uđagašjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ume</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ubmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Unhorjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Unhorjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Unhorvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Uhurvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Unna Gibbaljávri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Unnit Gibbaljávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Unna Láhkkejávri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuolit Láhkkejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Unna Vuossečielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Pikku Vuossiselkä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uulá Tupejävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ovllástohpojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uunjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Unjárga</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nesseby</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uureehuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Urretoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uáhujuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Oahojohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uáivušvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Oaivvošvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uáksipääččimvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Oaksebáhčinoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uárreeskäiđi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Oarriskáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uđđâ-Seeland</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ođđa Selánda</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uđđâseh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ođđasat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Uŋgar</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ungár</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaarjagvuonsuolu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Várjjavuonsuolu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaarjâg</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Várjjat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaarjâgvuonâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Várjjatvuonna</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Várjjatvuotna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaazâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Važáš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vagattem</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vagahanjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vaddjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaijuvjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Váijohjávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vaddjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vannjiikeessimluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Váinnosluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Varbunjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Várbunjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Varjâgâšnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Várjjagašnjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Varjâvuonâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Várjjavuotna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Varnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Várnjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Varsaljävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Várssaljávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaskiisjeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Veaikketjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaskiisjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Veaikketjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vaskiistuodâr</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Veaikketduottar</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vastusjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vásttasjávri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vásttosjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vatikaaniriijkâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vatikána</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Veeččâh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Veahčat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vestâjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vástájohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Veččâjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Veahčajohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Veččâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Veahčajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vielgis-Ruoššâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vilges-Ruošša</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vielgismeerâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vilgesmearra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vierccâruávááš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Viercaroaváš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Viibuštuoddâreh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Viibosduoddarat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Viibušuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Viibosoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Viijnelasettemjeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Viinnalasihanjeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Viijnelasettemjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Viinnalasihanjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Villigjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Villit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Viälmá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Fielbmá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Viälmáájeggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Fielbmájeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Viđttáánjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vihttannjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Voođâi kärdi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bigálusáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vullejeaggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vulle Stohpojeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vullejávri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stohpojávri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Unna Čoalosjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vullevárri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Stohpovárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuoddagassavu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Májjo geassebáiki</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuoddaohsavu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuodâsjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuottesjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuolimuš Beskoguoika</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Unna Bešku </t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuolit Besku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuolit Bearttošája</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuolit Bearttošvárája</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuolit Gálguorgu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Guorggu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuomvärjuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuopmavárejohka</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuopmevárejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuomvärjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuopmavárjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuomvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuopmavárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuomâjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuopmejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuovde-Bearttošvárri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuopme-Bearttošvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuovdâkuoškâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuovdaguoika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuáládâhenâmeh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuolleeatnamat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuáskujuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuoskkojohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuáskujävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuoskkojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vuáčču</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuohčču</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vyelebuš Jermuusavvoon</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuolit Jierpmusavu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vyemveinjälmi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuopmeveinjálbmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vyeppeenjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuohppenjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vyerhivääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Vuorhevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Várdámváárááš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Gaskujár Guotkkoaivi</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Várdánváráš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Váreduogejeaggi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Roaveduogejeaggi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Várgááh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Várggát</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vällipesjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Fállebeasjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vällipesuáivih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Fállebeasoaivvit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Vääččir</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Váhčir</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Jiellevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Yle Uđđâseh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Yle Ođđasat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Áddáápohe</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áttábohki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Áhujävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áhkojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Áhukuoškâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áhkguoika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Áhučuálmi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áhkočoalbmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Áillohâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áillohaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ákšujuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ákšojárjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ákšujävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ákšojávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ákšuvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ákšojárvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ánná</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ánne</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Áábrâmluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soavvelčoalmmeluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Áábrâmnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ábrrannjárga</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ápparannjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Áánápuškojáávráš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soavveljávrráš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Áŋálâhjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Haŋŋájávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Áŋálâhjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Haŋŋálottejávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Áŋálâhvuáčču</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Állevuohčču</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Äigee</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áigin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Äijihjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bajánjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Äijihluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Uhkuluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Äimijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áibmejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Äittijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Luhkkárbáiki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Äittijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áitejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Äittinjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áitenjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Äittuáivih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áitoaivvit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Äpisjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áhppesjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Äpisjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áhppesjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Äpistuoddâreh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Áhppesduoddarat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ävlijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ávlejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ävlijäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ávlejávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ävliluobbâleh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ávleluobbalat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ävžikešjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ávžegašjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ävžikešuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Ávžegašoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čaabuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čáppoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čaarâjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čárajohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čaarâjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čárajávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čaarâskäiđi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čáraskáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čaarâuáivi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čáraoaivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čaarâvyemi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čáravuopmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čapiskappeerjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čáhppesgahperjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čapistuodâr</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čáhppesduottar</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čavgŋábohki</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čaŋŋábohki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čevetjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čeavetjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čevetjävrčuájá</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čeavetčuodjá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čevetnjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čeavetnjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čevrisjuuvâš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čeavrresjogaš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čevrisluobbâleh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čeavrresluobbalat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čiermihkoddemváárááš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čearpmatgoddinváráš</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čiermihkoddemčielgi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čearpmatgoddinčielgi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čiermihvääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čearpmatvárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čieskadasluohtâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čieskadasluokta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čieskadasuáivih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čieskadasoaivvit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čieskâdâsjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čieskadasjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čievčâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čievččájávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čieŋâlisjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čiekŋalisjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čieŋâlisluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čiekŋalisluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čivtjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čivttajohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čivtmokkjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čivttamohkkejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čivtruávi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čivttaroavvi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čiäksâmjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Bastajohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čohčâluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čakčaluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čoolmâsluobbâleh</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čalmmasluobbalat</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop" spec="Sg">Šollonluoppal</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čovčjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoavččesjohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čovčjuvpuolžiih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoavččesjohbuolžžat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čovčjuvruávi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoavččesjohbuollán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čovčjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoavččesjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuhâruávááš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čohkaroavvi</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čohkavárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuhâváárááš</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čohkavárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čunomohláttu</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čunemohjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuonjájávri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čuoŋájávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuoškâjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čuoikajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuájánjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čuodjánjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuálmáájävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoalmmájávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuálmáávääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoalmmávárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuánjájävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čuonjájávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuárbbeljävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoarbbeljávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuárvijuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoarvejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuárvijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoarvejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuárvinjargâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoarvenjárga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuárviskäiđi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoarveskáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuárvivääri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoarvevárri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuávvá-Piättâr ääli</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoavvá-Biehtár álli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuáđgijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čoađginjávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čuđiidvuohčču</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čuđevuohčču</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čávgŋá bigálusgárdi</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Rivdošváre bigálusáidi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čäcsuálui</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čáhcesuolu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Čärsjuuhâ</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čársejohka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Šapšjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čuovžajávri</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Šakšajávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Šapšjävrluobâl</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Soavvelláddot</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Šapšjäävrih</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Čuovžajávrrit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Šelisjävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Šealšejávri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Šlubboruávijävri</l>
+   </lg>
+   <mg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Giellároavejávri</t>
+     </tg>
+   </mg>
+</e>
+</r> 

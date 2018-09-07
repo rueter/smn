@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="smn">
+<e id="N_573">
+   <lg>
+     <l g_stem="Sg" pos="Abbr" sg_gen="ATK" sg_ill="ATK:n">ATK</l>
+   </lg>
+   <mg rest="">
+     <defNative>automaatlâš tiä'tukie'tâdâllâm</defNative>
+     <tg xml:lang="fin">
+       <t pos="Abbr">ATK</t>
+     </tg>
+   </mg>
+</e>
+<e id="N_633">
+   <lg>
+     <l g_stem="Sg" pos="Abbr" sg_gen="BAP" sg_ill="BAP:n">BAP</l>
+   </lg>
+   <mg rest="">
+     <defNative>bruttoaalmugpye'vtittâs</defNative>
+     <tg xml:lang="fin">
+       <t pos="Abbr">BKT</t>
+     </tg>
+   </mg>
+</e>
+<e id="Abbr_1">
+   <lg>
+     <l pos="Abbr">mkr</l>
+   </lg>
+   <mg rest="mannjeel kristus">
+     <defNative>mannjeel kristus</defNative>
+     <tg xml:lang="fin">
+       <t pos="Abbr" re="jälkeen Kristuksen">jKr.</t>
+     </tg>
+   </mg>
+</e>
+<e id="A_1004">
+   <lg>
+     <l pos="Abbr">om.</l>
+   </lg>
+   <mg rest="ovdiibeln ma'inâšum">
+     <defNative>ovdiibeln ma'inâšum</defNative>
+     <tg xml:lang="fin">
+       <t pos="Abbr">em. (edellä mainittu)</t>
+     </tg>
+   </mg>
+</e>
+<e id="N_11291">
+   <lg>
+     <l g_stem="Sg" pos="Abbr" sg_gen="tme">tme</l>
+   </lg>
+   <mg rest="= tijme)">
+     <tg xml:lang="fin">
+       <t pos="Abbr">klo (= kello)</t>
+     </tg>
+   </mg>
+</e>
+<e id="N_11292">
+   <lg>
+     <l g_stem="Sg" pos="Abbr" sg_gen="tmt.">tmt.</l>
+   </lg>
+   <mg rest="tâi miinii tagarijd)">
+     <tg xml:lang="fin">
+       <t pos="Abbr">tms.</t>
+       <t pos="Abbr">tai muuta sellaista</t>
+     </tg>
+   </mg>
+</e>
+</r> 
